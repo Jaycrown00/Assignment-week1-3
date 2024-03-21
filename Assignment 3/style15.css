@@ -1,0 +1,11 @@
+.rayy-logo {
+    width: 300px;
+    height: 100px;
+    background-image: url(img/logo.jpg);
+    background-size: 200%;
+    background-repeat: no-repeat;
+    background-position: center; left: 0%;
+}
+.rayy-logo:hover {
+    background-size: 100%;
+}
